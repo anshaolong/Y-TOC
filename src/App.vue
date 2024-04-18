@@ -152,11 +152,6 @@
         <a-button class="footer-center" @click="() => image = ''">返回编辑</a-button>
       </template>
     </div>
-    <div class="footer">
-      <p><a href="https://struy.cn/">AwesomeYang</a>© 2023｜<a
-          href="https://note.mowen.cn/note-intro/?noteUuid=VCM-EtZ94BrA5o4TBc1R3">背后的故事￥</a>｜<a
-          href="https://github.com/struy-cn/Y-TOC">Github</a></p>
-    </div>
   </div>
 </template>
 
